@@ -115,7 +115,7 @@ hr {
 {% assign navborder_active = 6 %}
 
 nav {
-  font-size:15px;
+  font-size:12px;
   width:100%;
   position:fixed;
   z-index:100;
@@ -142,7 +142,7 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:60px;
+  line-height:40px;
   margin:0;
 }
 
