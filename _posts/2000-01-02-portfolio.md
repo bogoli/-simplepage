@@ -2,7 +2,7 @@
 title: "portfolio"
 bg: gray1
 color: black
-fa-icon: gear
+fa-icon: code
 ---
 
 # Portfolio
@@ -10,6 +10,13 @@ fa-icon: gear
 [some examples](https://github.com/t413/SinglePaged#fancy-jekyll-powered-single-page-site)!
 
 
+
+- - - 
+- - -
+- - - 
+- - -
+- - - 
+- - -
 
 - - - 
 - - -
