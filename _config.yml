@@ -26,10 +26,11 @@ google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disabl
 
 ### template colors, used site-wide via css ###
 colors:
-  black:		'#000000'
-  white:		'#ffffff'
-  gray1:		'#aaaaaa'
-  gray2:		'#888888'
+  black:		'#2C2B29'
+  white:		'#F3EDE1'
+  gray1:		'#A9A59D'
+  gray2:		'#78746F'
+  gray3:		'#4B4945'
   blue:			'#49a7e9'
   green:		'#9bcf2f'
   purple:		'#c869bf'
