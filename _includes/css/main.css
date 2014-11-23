@@ -121,7 +121,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:rgba(255,255,255,0.5);
 }
 
 nav ul {
@@ -148,13 +148,14 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#2C2B29 !important;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
 }
 
 nav ul li a:hover {
+  text-decoration: none !important;
   opacity:1
 }
 nav ul li:hover, nav ul li.active {
@@ -181,13 +182,14 @@ nav ul li:hover, nav ul li.active {
 
 
 #footer {
+  color:#999;
   padding: 4px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#2C2B29;
   background-image:none;
 }
-#footer .container p { font-size:11px; margin:0; }
+#footer .container p { font-size:10px; margin:0; }
 
 .subtlecircle {
   text-align:center;
@@ -200,7 +202,7 @@ nav ul li:hover, nav ul li.active {
   /* 
   box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
   */
-  background:rgba(255,255,255,0.75);
+  background:rgba(255,54,54,1);
   /*(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);*/
 }
 

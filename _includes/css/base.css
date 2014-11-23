@@ -93,8 +93,12 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { text-decoration: underline; outline: 0; }
-	a:hover, a:focus { }
+	a, a:visited { 
+		color:#FF3636 !important;
+		outline: 0; 
+		text-decoration: none;
+	}
+	a:hover, a:focus { text-decoration: overline;}
 	p a, p a:visited { line-height: inherit; }
 
 
