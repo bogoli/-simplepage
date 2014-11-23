@@ -296,24 +296,17 @@ nav ul li:hover, nav ul li.active {
 
   .section { padding:130px 0; }
   .sectiondivider {
-    width:200px;
-    height:200px;
-    padding:15px;
-    top:-100px;
-    margin-left:-100px;
+    width:120px;
+    height:120px;
+    padding:0px;
+    top:-60px;
+    margin-left:-60px;
   }
-  .sectiondivider img {
-    width:150px;
-    height:180px;
-  }
-  .sectiondivider .fa-stack {
-    font-size: 100px;
-    margin-top: -14px;
-  }
+
   .sectiondivider h5 {
-    font-size:15px;
-    bottom:30px;
-    width:170px
+    font-size:16px;
+    bottom:50%;
+    width:120px
   }
 
   .columned {
@@ -322,3 +315,5 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+
