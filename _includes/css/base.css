@@ -57,6 +57,7 @@
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
+		font-weight:300;
  }
 
 
@@ -94,11 +95,16 @@
 /* #Links
 ================================================== */
 	a, a:visited { 
+		/*
 		color:#FF3636 !important;
+		*/
 		outline: 0; 
-		text-decoration: none;
+		text-decoration: underline;
 	}
-	a:hover, a:focus { text-decoration: overline;}
+	a:hover, a:focus { 
+		text-decoration: underline;
+		color:#FF3636 !important;
+	}
 	p a, p a:visited { line-height: inherit; }
 
 

@@ -272,7 +272,11 @@ nav ul li:hover, nav ul li.active {
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
 
-
+.contacticon {
+  font-size: 60px;
+  display:block;
+  margin: 10px;
+}
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
@@ -317,5 +321,3 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
-
-
