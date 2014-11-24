@@ -198,12 +198,7 @@ nav ul li:hover, nav ul li.active {
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-
-  /* 
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  */
   background:rgba(255,54,54,1);
-  /*(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);*/
 }
 
 .sectiondivider {
@@ -215,14 +210,6 @@ nav ul li:hover, nav ul li.active {
   left:50%;
   margin-left:-80px;
 
-}
-
-.sectiondivider img {
-  width:120px;
-  height:120px;
-  position: static;
-  margin-top: -20px;
-  
 }
 
 .sectiondivider .fa-stack {
@@ -238,21 +225,12 @@ nav ul li:hover, nav ul li.active {
   font-weight:400;
   text-transform:uppercase;
   position:absolute;
-  bottom:50%;
-  /*
-  left:auto;
-  */
+  bottom:70px;
   text-align:center;
   display:block;
   z-index:6;
   width:160px;
 
-}
-
-.sectiondivider.imaged {
-  /*   
-  text-shadow: 1px 1px 3px #333; 
-  */
 }
 
 
@@ -289,7 +267,7 @@ nav ul li:hover, nav ul li.active {
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
-  nav ul li { min-width:90px; line-height:20px; }
+  nav ul li { min-width:80px; line-height:20px; }
 }
 
 /* anything not desktop */
@@ -311,7 +289,7 @@ nav ul li:hover, nav ul li.active {
 
   .sectiondivider h5 {
     font-size:16px;
-    bottom:50%;
+    bottom:50px;
     width:120px
   }
 
