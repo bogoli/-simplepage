@@ -1,4 +1,3 @@
-My personal site
-======================
+# Personal landing page
 
-Based on a single page design by [Tim O’Brien](https://github.com/t413/SinglePage). 
+Developed starting with a single page design by [Tim O’Brien](https://github.com/t413/SinglePage). 
