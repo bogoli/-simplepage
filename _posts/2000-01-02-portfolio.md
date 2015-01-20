@@ -7,14 +7,24 @@ fa-icon: code
 <!-- 	row big column, row small column, row full column 
 		use divs to make pictures of different sizes fit in one row	-->
 
-<!-- =================================== DIGITAL PROJECTS  =====================================-->
-
-
-<!--  TVOICE ===================================================================================-->
-
+<!-- =================================== DIGITAL PROJECTS  =====================================
+<h1>Digital</h1>
+--> 
+<!--  TVOICE ===================================================================================-
+<h2>tVoice</h2>
+A small concept that was implemented for MIT's 6.470 
+<div>
+	<img class="row small column"  src="img/portfolio/tvoice.welcome.png" alt="tVoice Login Screen" title="Welcome and Login Screen"/>
+	<img class="row small column"  src="img/portfolio/tvoice.channel.png" alt="tVoice Channel Screen" title="Your profile and channel page"/>
+	<img class="row small column"  src="img/portfolio/tvoice.discussion.png" alt="tVoice Discussion Screen" title="Episode discussion page"/>
+</div>
+<p>
+	<hr/>
+</p>
+-->
 
 <!-- =================================== ARCHITECTURE  =========================================-->
-<h1>Architecture Projects</h1>
+<h1>Architecture</h1>
 
 <!-- ======================================THE ICON BENCH =====================================-->
 <h2>The Icon Bench</h2>
@@ -59,22 +69,22 @@ The joints were 3D printed out of ABS, and the panels and base are plexiglass an
 
 <!-- ======================================== Studio Projects ===================================-->
 <h2>4.112 - Architecture Studio</h2>
-Every project that was completed through the semester of Studio 2 was based on the simple premise of a process completely removed from architecture: protein methylation. The dichotomous nature of this process provided the logic for the creation of a dynamic and interactive Processing drawing, which then became the starting point for two major projects. An expansion of the drawing into three dimensional space became a theoretical building space, made from plaster poured into a mold made of lasercut paperboard. The final piece measured one cubic foot. 
+Every project that was completed through the semester of Studio 2 was based on the simple premise of a process completely removed from architecture: protein methylation. The dichotomous nature of this process provided the logic for the creation of a dynamic and interactive Processing drawing, which then became the starting point for <!--two major projects.--> this major project.
+
+<!-- An expansion of the drawing into three dimensional space became a theoretical building space, made from plaster poured into a mold made of lasercut paperboard. The final piece measured one cubic foot. 
 
 <div>
 	<img class="row small column" src="img/portfolio/studio.CAD.png" alt="CAD Model." title="CAD model of building space."/>
 	<img class="row small column" src="img/portfolio/studio1.3.png" alt="Aerial view." title="Aerial view of building space."/>
 	<img class="row small column" src="img/portfolio/studio1.1.png" alt="Finished product." title="Elevation of building space."/>
 </div>
-
+--> 
 <h3>Study Haus</h3>
-A second major venture was the evolution of the Processing drawings into a usable space, rather than just a concept. From the undulating nature of the drawings, I theoreticized a building with spaces that could expand and contract based on occupation, from study carrels with thickened, accordion walls for sound insulation, to larger, airier rooms that encourage interaction and study groups. 
-
+<!--A second major venture was the evolution of the Processing drawings into a usable space, rather than just a concept. --> 
 <div>
 	<img class="row full column" src="img/portfolio/studio.evolution.png" alt="Evolution of building plans." title="Evolution from Processing drawing stills to building plan.">
 </div>
-
-From spaces of high density and activity in the drawings came rooms. Areas with lower density became smaller spaces within the building, lower rooflines providing coziness. 
+From the undulating nature of the drawings, I theoreticized a building with spaces that could expand and contract based on occupation, from study carrels with thickened, accordion walls for sound insulation, to larger, airier rooms that encourage interaction and study groups. From spaces of high density and activity in the drawings came rooms. Areas with lower density became smaller spaces within the building, lower rooflines providing coziness. 
 
 <div>
 	<img class="row big column" src="img/portfolio/studio.elevation.png" alt="Elevation of building." title="Elevation of Study Haus">

@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Lia Bogoev"
 keywords:    "lia, Bogoev, template, github, design, ux, ui, single page"
-description: "description"
+description: "Landing page of Lia Bogoev."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
