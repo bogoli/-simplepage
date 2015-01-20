@@ -9,7 +9,7 @@ fa-icon: code
 
 
 <h1>The Icon Bench</h1>
-This project was completed as part of 4.500 Design Computing, in collaboration with my partner, <a href="http://ebsworth.tumblr.com">Tara Ebsworth</a>. The goal was to create a chair that was easily manufactured, out of common materials, and put together only using a rubber mallet. The intent of the design was to use as little wood as possible, and to still be comfortable and stylish. We achieved this by using thin slats of plywood that had some give, conforming to the body.
+This project was completed as part of **4.500 Design Computing**, in collaboration with my partner, <a href="http://ebsworth.tumblr.com">Tara Ebsworth</a>. The goal was to create a chair that was easily manufactured, out of common materials, and put together only using a rubber mallet. The intent of the design was to use as little wood as possible, and to still be comfortable and stylish. We achieved this by using thin slats of plywood that had some give, conforming to the body.
 
 <div>
 	<img class="row small column"  src="img/portfolio/chairDrawingsCutPlan.png" alt="Cut plan of chair" title="Cut Sheet and AutoCAD drawings"/>
