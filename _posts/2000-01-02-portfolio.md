@@ -63,8 +63,8 @@ Every project that was completed through the semester of Studio 2 was based on t
 
 <div>
 	<img class="row small column" src="img/portfolio/studio.CAD.png" alt="CAD Model." title="CAD model of building space."/>
-	<img class="row small column" src="img/portfolio/studio1.3.JPG" alt="Aerial view." title="Aerial view of building space."/>
-	<img class="row small column" src="img/portfolio/studio1.1.JPG" alt="Finished product." title="Elevation of building space."/>
+	<img class="row small column" src="img/portfolio/studio1.3.png" alt="Aerial view." title="Aerial view of building space."/>
+	<img class="row small column" src="img/portfolio/studio1.1.png" alt="Finished product." title="Elevation of building space."/>
 </div>
 
 <h3>Study Haus</h3>
