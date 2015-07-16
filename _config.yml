@@ -4,7 +4,6 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: / ## disables post output
@@ -18,6 +17,7 @@ highlighter: pygments
 title:       "*simplepage"
 keywords:    "template, github, jekyll, ux, ui, single page"
 description: "simple Jekyll landing page"
+baseurl: "/-simplepage" # the subpath of your site, e.g. /blog/
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
