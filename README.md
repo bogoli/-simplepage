@@ -1,3 +1,3 @@
-# Personal landing page
+# *simplepage
 
-Developed starting with a single page design by [Tim O’Brien](https://github.com/t413), updated with a minimized and monochrome UI. 
+A more simply styled, less colorful version of Tim O'Brien's [Single Paged Jekyll Theme](https://github.com/t413/SinglePaged). Check out the original README for clear uses. 
